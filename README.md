@@ -2,7 +2,7 @@
   <h1 align="center">Hi, I'm Steven👋👨‍💻<h1/>
    A passionate web front end developer from Ecuador.
  </div>
-
+ <p align="center"> A passionate web front end developer from Ecuador.<p/>
 ### **About me**
 -🌱 I’m currently learning **Nodejs**, **Express**, **SQL**, **Databases**.
 
