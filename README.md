@@ -1,17 +1,24 @@
   <div>
   <h1 align="center">Hi, I'm Steven👋👨‍💻 </h1>
 <p align="center">A passionate web front end developer from Ecuador.</p>
-
-
   </div>
- 
 
-### **About me**
--🌱 I’m currently learning **Nodejs**, **Express**, **SQL**, **Databases**.
+
+#### 🤠 **About me**
+- 🌱 I’m currently learning **Nodejs**, **Express**, **SQL**, **Databases**.
+- 🌐Website ".."
+
+
+#### 🔨 **Languages and Tools:**
+<div align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="title" width="40" height="40">
+</div>
+
+
 
 You can follow me:
-[Twitter](https://mobile.twitter.com/Aronch37)
-[Linkedin](https://www.linkedin.com/in/steven-ontaneda/)
+- [Twitter](https://mobile.twitter.com/Aronch37)
+- [Linkedin](https://www.linkedin.com/in/steven-ontaneda/)
 
 
 <!--
