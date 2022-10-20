@@ -1,4 +1,22 @@
-### Hi there 👋
+
+# Hi, I'm Steven👋
+
+### **About me**
+Actualmente estoy aprendiendo 
+
+---
+### **Skills** 
+- _Html_
+- _Css_
+- _Javascript_
+- _React_
+
+---
+### Contact me
+[Twitter](https://youtube.com)
+[Telegram](https://youtube.com)
+[Linkedin](https://youtube.com)
+
 
 <!--
 **aontaneda2000/aontaneda2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
