@@ -4,14 +4,6 @@
 ### **About me**
 Actualmente estoy aprendiendo 
 
----
-### **Skills** 
-- _Html_
-- _Css_
-- _Javascript_
-- _React_
-
----
 ### Contact me
 [Twitter](https://youtube.com)
 [Telegram](https://youtube.com)
