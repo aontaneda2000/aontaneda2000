@@ -2,12 +2,12 @@
 # Hi, I'm Steven👋👨‍💻
 
 A passionate web front end developer from Ecuador.
-https://media.giphy.com/media/MZEw20IGPQOvk1urqH/giphy.gif
+
 
 ### **About me**
 -🌱 I’m currently learning **Nodejs**, **Express**, **SQL**, **Databases**.
 
-### Contact me
+You can follow me:
 [Twitter](https://mobile.twitter.com/Aronch37)
 [Linkedin](https://www.linkedin.com/in/steven-ontaneda/)
 
