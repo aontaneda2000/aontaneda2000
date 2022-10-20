@@ -2,12 +2,11 @@
 # Hi, I'm Steven👋
 
 ### **About me**
-Actualmente estoy aprendiendo 
+I am currently learning web development
 
 ### Contact me
-[Twitter](https://youtube.com)
-[Telegram](https://youtube.com)
-[Linkedin](https://youtube.com)
+[Twitter](https://mobile.twitter.com/Aronch37)
+[Linkedin](https://www.linkedin.com/in/steven-ontaneda/)
 
 
 <!--
