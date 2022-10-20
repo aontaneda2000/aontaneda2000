@@ -1,8 +1,11 @@
 
-# Hi, I'm Steven👋
+# Hi, I'm Steven👋👨‍💻
+
+A passionate web front end developer from Ecuador.
+https://media.giphy.com/media/MZEw20IGPQOvk1urqH/giphy.gif
 
 ### **About me**
-I am currently learning web development
+-🌱 I’m currently learning **Nodejs**, **Express**, **SQL**, **Databases**.
 
 ### Contact me
 [Twitter](https://mobile.twitter.com/Aronch37)
