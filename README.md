@@ -1,10 +1,9 @@
 <div id="header" align="center">
   <h1 align="center">Hi, I'm Steven👋👨‍💻<h1/>
  </div>
-
-
-# Hi, I'm Steven👋👨‍💻
-
+  
+---
+  
 A passionate web front end developer from Ecuador.
 
 
