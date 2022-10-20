@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1 align="center">Hi, I'm Steven👋👨‍💻<h1/>
-    <p align="center"> A passionate web front end developer from Ecuador. </p>
+   A passionate web front end developer from Ecuador.
  </div>
 
 ### **About me**
